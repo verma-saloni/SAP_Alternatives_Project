@@ -1,0 +1,240 @@
+
+SAP BPCby SAP
+(11)
+Business planning and consolidation solution that offers financial forecasting, budgeting, scenario planning, and collaboration tools.
+
+SAP Lumiraby SAP
+(24)
+Bring your data to life with SAP Lumira - now for only $185! Start visualizing your spreadsheets and data today.
+
+SAP BusinessObjectsby SAP
+(146)
+Application to help you optimize business performance by connecting people, information, and businesses across business networks.
+
+SAP Document Centerby SAP
+(4)
+Mobile content management solution that helps teams securely share files and access corporate content from any device.
+
+SAP HANAby SAP
+(235)
+Big Data system, that consists of in-memory technology, analytics database, and event processing.
+
+SAP Innovation Managementby SAP
+(4)
+Cloud-based innovation management solution that enables businesses to manage ideas, campaigns, tasks, and more.
+
+SAP Concurby SAP Concur
+(1186)
+SAP Concur takes you beyond automation to a completely connected spend management solution that grows with your business
+
+SAP SuccessFactorsby SAP
+(183)
+Automates all core human resource processes, including employee administration, payroll, and legal reporting.
+
+SAP S/4HANA for Financeby SAP
+(109)
+Manage payments and bank communications, financial risks, customer engagement and up-selling with treasury management software.
+
+SAP Business ByDesignby SAP
+(235)
+On-demand business solution designed to unify and streamline core business operations for midsize companies.
+
+----------
+
+
+SAP S/4HANA for Finance
+SAP SRM
+SAP Trade Promotion Management
+SAP Sales Cloud
+SAP Predictive Analytics
+Ariba Commerce Cloud
+Ariba Spend Management Suite
+by SAP Ariba
+
+------------
+
+
+
+In this article we are going to discuss what is SAP HR and it importance. SAP HR (Human Resource management) also known asHuman Capital Management (HCM) and it is an important module in ERP SAP systems that supports all the process of human resource management in the enterprise.
+SAP HR records the data from the hiring an employee to its final termination in organization. It store the employee data such as designation, role, salary details, working shifts,  address and so on.
+
+SAP HR is divided in to various sub modules such as 
+Organizational management
+Personnel Administration
+Time Management
+Personnel Development
+
+Let discuss briefly about SAP hr sub modules.
+
+Organization management: Organization management is one of the important sub module of SAP HR and enables the organization to represent the organizational plan, analysis current plan, create additional plans and create better workflow management.
+
+2. Personnel Administration: Personnel Administration is one of the important sub module of SAP systems and records essential employee information. It performs various administration tasks such as hiring the employees, personnel data, travel expenses, payroll accounting and so on.
+
+3. Time management is one of the important sub module of HR and records the employee data related to attendance, absence, time evaluation,shifts and so on.
+
+4. Payroll: SAP payroll process the payment that work done by a employees. It includes wages, benefits, medical benefits, taxes and so on. Payroll is integrated with other modules such personal administration, time management, financial accounting and so on.
+
+5.Personnel development is one of the important sub module of HR where the organization maximize the employees performance. The main objectives of personal development is to qualify the employees so that they meet the requirements, increase the employees motivation and productivity and reduce the employee turnover.
+
+
+alternatives dene hain. 
+pic categorisation
+text categorisaton
+dont copy the template p- copyright problem/
+d3js for isuation of query. google ki tarah. make more complex ontolgies. 
+
+
+
+
+
+
+
+Web-based eCommerce platform that helps suppliers and retailers collaborate with customers and manage orders, invoices and other processes.
+
+A unique web-based platform that helps you to buy, sell, and manage cash more efficiently and effectively than ever before.---------------------------
+
+
+------------------------------
+
+
+
+The purpose of this document is to collect write or summary of the organized events under academic club from the organizing team.
+
+
+The information must be populated in the format described below.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Event: You're Hired! In Conversation with the Recruiters
+
+Date: 6th December(14:00 - 16:30)
+
+Location: Hörsaal 1 , OVGU Magdeburg
+
+Participants: 150
+
+Panellist Names: 
+
+Rainer Kärgel
+Helena Bergmann
+Felix Dieckmann
+Dr. Stefan Werner Knoll
+
+
+Event Objective:
+
+To provide a forum to bring in personnel who recruit computer science professionals in Germany and held a panel discussion to help students of FIN get idea about how to build their profiles during their degree program for the German job market. Specifically to discuss how different activities that one undertakes during their studies are evaluated and how the process of recommendation works here in Germany.
+
+Event Summary:
+
+The event "You’re hired - in Conversation with Recruiters", took place in Hörsaal 1 at the OVGU campus. There was an audience of approximately 150 students and faculty members of OVGU. It started with a brief introduction of the academic club by Christian Wustrau followed by an introduction of the actual event by Mohammed Farhaan Shaikh who, along with expressing the idea behind the event, also explained the structure of the event. After introducing the panellists and seating them on the stage, we started off with the first half of the event. The event was divided into two sections. The first named “Panel discussion” was when the moderators (Sidra Aziz and Subhashree Mangaraj) raised 5 questions related to the various aspects of the German job market with respect to a student’s profile. Each of the panellists had an opportunity to give their views and opinions about the topic being discussed. Topics like - How important is the master’s thesis? Does it matter to have prior work experience? How important are the recommendations?, among others were discussed during the panel discussion. At the end of the first half of the event, the mic was passed to the audience giving them an opportunity to ask their questions directly to the panelists. A lot of important questions were answered during this part of the event. When all questions were answered, the event concluded on a good note with a vote of thanks by Zohaib.
+
+
+Conclusion and Feedback: To be gathered from Data analysis team:
+
+Photography Credits: Ayushi Dani, Budhadittya.
+
+Facebook photo link: https://web.facebook.com/pg/sifin.ovgu/photos/?tab=album&album_id=604160396801847&__xts__%5B0%5D=68.ARA1oDTHZsuK5kaxTsnLSIwYLCUUAdfjPlu2ST3S7fAo2hLWAw31GXyF72mo3uBQKMby66V9m2VPL3SULBE8i3fg2qctl1-8les9Ld6gsHV7UmitsDWMyRiZMYqzSqWDDiyJiKoxRQIYfVxwJ86QUzCBVRcUKXWX0Z7Mrvdr22k6SpFqKX7yKO3O5qjCtY7xuu7f_5Y64pm7qfZfLctNpt6zcVVT7rGfMYWRzSWeFAF-HtojGQvhmj540yS1Y32e9yeg03jTP6KGsMI-QfHY4tSrqTb-iUmVtdRmXCNdmjqw1drDWOVGm-woSVcMEIaaAz642uXLknw30iNoqN51e_3WbdEVQxDYMesixBr5OYkWDO0ZbTsgiSMEVjIss_mJfa61ewNQN-Rw4mBEtqmCN4SMOWEAfp09OH8VLtiYNMguS6TjeFKf9E8HW-uP3eG24lVCV3UxJKhMyWAUKQ&__tn__=-UC-R.
+
+------------------------------------------------
+
+
+
+Event: Coder's Quest 3.0
+
+Date: 15th January, 2020
+
+Location: Building G29 - Room 307
+
+Participants: 10
+
+Winners: Team Mars
+
+
+On January 15th, 2020 the third edition of the Coder's Quest took place at the FIN Hörsaal. The event was hosted by the Coder's Quest team of the Academic Club. A total of ten intrigued students from the Faculty of Informatik participated in the event. Along with them, faculty member and the Coder's Quest group advisor Gabriel Campero Durand was also in presence.
+
+
+The event started with a brief introduction about the Academic Club and Coder's Quest by Fatima Idrees which was shortly followed by the announcement of the competition rules by Oliver Watson. After that, the participants were divided into 3 groups based on a random bar of chocolate that they pick. Their choices resulted in three teams namely "Team Bounty", "Team Twix", and "Team Mars". After the teams were formed, the competition was started which was moderated by Behnam, Chao, and Vikram.
+
+
+The competition had three rounds where each round had it's respective time constraint and level of difficulty. The competition began with the first round "Rapid Fire".In this round, every participant was given a time of 45 seconds to answer a multiple-choice question. Following this round, a short programming assignment was presented to each team. The final round was the "Eenie Meenie Miney Mo" round. In this one, the leading team on the scoreboard until the second round got to choose a puzzle category of "Physics" and "Maths". Team Mars, which was leading at that point, chose "Maths". Eventually, their choice was smart as they were declared the winners after the three rounds.
+
+
+The event concluded by a vote of thanks by Gabriel Campero Durand.
+
+
+Here is a snap of the "Coder's Quest 3.0" winners - Team Mars.
+
+
+<Picture here: https://drive.google.com/open?id=1XG3R1SL9FHuU7ckYwnu3KYjG1EQRvYqH>
+
+
+Coder's Quest 3.0 Winners - Team Mars | From left to right - Budhaditya Mukhopadhyay, Carl Stermann-Lücke, Aditya Dey.
+
+
+Special Mention: The Coder's Quest team acknowledges Carl who has been part of the winning team in every edition of the Coder's Quest.
+
+
+<Picture here: https://drive.google.com/open?id=19Sjm4DCsaz6_1neYBkUcKKCeA6egN5tH>
+
+
+Also, picture of everyone when the event concluded. 
+
+
+<Picture here: https://drive.google.com/open?id=1Mvvh8jaPnYXzvCxfN5i_AdWwqjZBTfW8>
+
+
+The photographs for the event were captured by Budadithya Mukhopadhyay and Vikram Apilla.
+
+
+----------------------
+
+ADP Vantage HCM is a strategically focused, globally scalable HR
+system that delivers unmatched expertise and service, comprehensive
+uni??ed services, innovative and intuitive technology, and valuable
+insights to help unlock your workforce’s maximum potential.
+ADP Vantage HCM delivers innovative technology combined with
+actionable “business intelligence” to help to make better business
+decisions. It provides A single view of critical analytics across the
+organization for actionable, real-time decision-making, easy-to-use
+dashboards that let to customize views and parse data in ways that
+are most meaningful to speci??c role and organization, out-of-the-box
+metrics that can be sliced and diced in multiple ways.
+ADP Vantage HCM helps streamline and simplify day-to-day HR
+activities so as to increase productivity and focus on what matters
+most to the core business. Provides A single HR system of record to
+manage, track and analyze anything and everything HR-related across
+your organization, con??gurable work??ows to de??ne and automate
+your unique processes, through all individuals involved, to enhance
+collaboration and help maximize productivity across the organization,
+designed to help you with your legal compliance obligations, from
+payroll to Health Care Reform, an interactive org chart that provides
+maximum insight into your employees with an actionable tool to
+manage all aspects of your people strategy more e??ciently and
+e??ectively, ADP Mobile Solutions app allows employees to securely
+connect with your organization anytime, anywhere from their
+smartphones. They can receive company news, view upcoming events,
+and access a directory to call, email and locate colleagues. ADP Vantage HCM helps improve bene
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
